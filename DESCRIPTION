@@ -1,11 +1,14 @@
 Package: bjoeRn
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Demo
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R:
+    person(given = "Björn",
+           family = "Ludwig",
+           role = c("aut", "cre"),
+           email = "bjoern.ludwig@ptb.de",
+           comment = (c(ORCID = "0000-0000-0000-0000")))
+Description: The content of this package was created during the "FAIR Git & R" Carpentries workshop at TIB Hannover on 11. & 12. of April 2019 <https://events.tib.eu/fair-data-software/programme/>. It provides functions to work on numeric vectors.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
