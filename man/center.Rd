@@ -15,12 +15,12 @@ center(data, ..., center = 0)
 centered_data The centered numeric data set
 }
 \description{
-Take a *center* value and rearrange data points around it regarding the mean.
+Take a center value and rearrange data points around it regarding the mean.
 }
 \examples{
   center(1:3)
   # with default center should result in [1] -1  0  1
-  
+
   center(c(1, 2, 3), 10)
   # should result in [1]  9 10 11
 }

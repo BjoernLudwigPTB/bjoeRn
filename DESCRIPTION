@@ -9,6 +9,7 @@ Authors@R:
            email = "bjoern.ludwig@ptb.de",
            comment = (c(ORCID = "0000-0000-0000-0000")))
 Description: The content of this package was created during the "FAIR Git & R" Carpentries workshop at TIB Hannover on 11. & 12. of April 2019 <https://events.tib.eu/fair-data-software/programme/>. It provides functions to work on numeric vectors.
+Date: 2019-04-12
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
